@@ -6,6 +6,9 @@
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
+    <div style="flex: 1; text-align: right; padding-left: 20px;">
+      <img align="right" src="gitImage.jpg" alt="Programmer Illustration" width="350"/>
+    </div>
 
 ### 💫 About Me:
 
@@ -17,10 +20,6 @@
 * 🤝 Always open to **collaborations & internships**
 
   </div>
-</div>
-  <div style="flex: 1; text-align: right; padding-left: 20px;">
-    <img align="right" src="gitImage.jpg" alt="Programmer Illustration" width="350"/>
-    </div>
 </div>
 
 ---
