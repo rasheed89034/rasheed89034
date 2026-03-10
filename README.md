@@ -4,6 +4,9 @@
 
 ---
 
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+
 ### 💫 About Me:
 
 * 🎓 **AI Student** | Currently in 4th Semester at COMSATS University Islamabad
@@ -12,6 +15,12 @@
 * 🚀 Building real-world ML models and integrating them with web applications
 * 🌱 Currently creating content for my programming channel, **Coding Mind244**
 * 🤝 Always open to **collaborations & internships**
+
+  </div>
+  <div style="flex: 1; text-align: right; padding-left: 20px;">
+    <img src="YOUR_IMAGE_LINK_HERE" alt="Programmer Illustration" width="350"/>
+    </div>
+</div>
 
 ---
 
@@ -76,5 +85,5 @@ Linear Regression | Polynomial Regression | Decision Trees | K-Nearest Neighbors
 
 ### 📫 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasheed-ahmad-ml-engineer-b56037311/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rasheedahmad890127@gmail.com)
