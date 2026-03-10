@@ -69,14 +69,10 @@ Linear Regression | Polynomial Regression | Decision Trees | K-Nearest Neighbors
 
 ### 📈 GitHub Stats:
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to activate these stats!)*
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasheed89034&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasheed89034&theme=radical" alt="GitHub Streak" />
 </p>
-
----
 
 ### 📫 Connect With Me:
 
