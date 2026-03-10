@@ -18,7 +18,8 @@
 
   </div>
   <div style="flex: 1; text-align: right; padding-left: 20px;">
-    <img src="YOUR_IMAGE_LINK_HERE" alt="Programmer Illustration" width="350"/>
+    <img src="<img width="713" height="735" alt="image" src="https://github.com/user-attachments/assets/f7ddae3a-4c0d-4342-9e43-720907479ae5" />
+" alt="Programmer Illustration" width="350"/>
     </div>
 </div>
 
@@ -27,16 +28,11 @@
 ### 🔧 Tech Stack:
 
 **💻 Languages**
-![Python]
-(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java]
-(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++]
-(https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL]
-(https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5]
-(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **🛠 Tools**
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
