@@ -19,7 +19,7 @@
   </div>
 </div>
   <div style="flex: 1; text-align: right; padding-left: 20px;">
-    <img src="gitImage.jpg" alt="Programmer Illustration" width="350"/>
+    <img align="right" src="gitImage.jpg" alt="Programmer Illustration" width="350"/>
     </div>
 </div>
 
