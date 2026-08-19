@@ -12,7 +12,7 @@
 
 ### 💫 About Me:
 
-* 🎓 **AI Student** | Currently in 4th Semester at COMSATS University Islamabad
+* 🎓 **AI Student** | Currently in 5th Semester at COMSATS University Islamabad
 * 🤖 Passionate about **Artificial Intelligence, Machine Learning & Robotics**
 * 🧠 Deep diving into Data Structures & Algorithms (BFS, DFS), OOP, and Database Management
 * 🚀 Building real-world ML models and integrating them with web applications
